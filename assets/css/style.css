@@ -40,22 +40,18 @@
 }
 
 .section {
-    display: inline-flex;
-    flex-wrap: wrap;
+    align-items: stretch;
+    flex-direction: column;
 }
 
-.section h2, p {
-    float: right;
+.h3 {
+    text-align: center;
 }
 
 .content {
     width: 100%;
-    display: inline-block;
-    justify-content: center;
-}
-
-.content img {
-    max-height: 200px;
+    align-items: center;
+    text-align: center;
 }
 
 .content h2 {
@@ -64,31 +60,31 @@
 }
 
 .box-style {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 250px;
-    background-color: darkcyan;
-    
-    text-align: center;
+    margin: 50px auto;
+    padding-bottom: 50px;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .contact {
     color: blue;
 }
 
-.words, .contact {
-    background-color: tomato;
+.about-img {
+    text-align: left;
+    justify-content: center;
+    padding-right: 35px;
+    display: inline-flexbox;
 }
 
-.phone, .email, .links {
-    font-size: 15px;
-    padding: 20px;
-    color: white;
-    border: 2px solid blue;
-    border-radius: 15px;
-    box-shadow: 5 5 20px rgba(255, 255, 255, .5);
-    display: inline-block;
+.about-text {
+    flex: 2 70%;
+    display: flex;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 .footer {
