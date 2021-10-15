@@ -39,11 +39,6 @@
     margin-bottom: 30px;
 }
 
-.h3 {
-    text-align: center;
-    display: block;
-}
-
 .content {
     width: 100%;
     align-items: center;
@@ -81,14 +76,4 @@
 
 .footer h2 {
     font-size: 20px;
-}
-
-.float-left {
-    float: left;
-    margin: 25px;
-}
-
-.float-right {
-    float: right;
-    margin: 25px;
 }
