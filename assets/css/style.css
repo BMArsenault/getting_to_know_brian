@@ -1,5 +1,5 @@
 * {
-    background-color: seagreen;
+    background-color: greenyellow;
 }
 
 .header {
@@ -49,4 +49,51 @@
 .section p {
     flex-wrap: wrap;
     justify-content: flex-start;
+}
+
+.box-style {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+}
+
+.contact {
+    color: blue;
+}
+
+.words, .contact {
+    background-color: tomato;
+}
+
+.phone, .email, .links {
+    font-size: 15px;
+    padding: 20px;
+    color: white;
+    background-color: tomato;
+    border: 2px solid white;
+    border-radius: 15px;
+    box-shadow: 5 5 10px rgba(255, 255, 255, .5);
+    display: inline-block;
+    flex-wrap: wrap;
+    justify-content: stretch;
+}
+
+.footer {
+    display: inline-block;
+    width: 100%;
+}
+
+.footer h2, .footer p {
+    text-align: center;
+    justify-content: center;
+}
+
+.float-left {
+    float: left;
+    margin: 25px;
+}
+
+.float-right {
+    float: right;
+    margin: 25px;
 }
