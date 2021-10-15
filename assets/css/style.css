@@ -1,5 +1,5 @@
 * {
-    background-color: cadetblue;
+    background-color: deepskyblue;
 }
 
 .header {
@@ -40,8 +40,7 @@
 }
 
 .section {
-    align-items: stretch;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 .h3 {
