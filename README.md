@@ -13,7 +13,7 @@ I have started a portfolio for myself to show off my accomplishments.  Unforunat
 
 * <a href="https://www.w3schools.com" target="_blank">w3schools</a>
 * <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">css-tricks</a>
-* <a href="https://tinypng.com" target="_blank>Tinypng</a>
+* <a href="https://tinypng.com" target="_blank">Tinypng</a>
 
 ## Links
   
