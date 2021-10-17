@@ -51,21 +51,42 @@
     width: 80%;
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
+    align-items: right;
     justify-content: space-between;
+    border-left: 4px solid black;
+    padding-left: 25px;
+}
+
+.title {
+    padding-right: 30px;
+}
+
+.title h3 {
+    float: left;
+    font-size: 30px;
 }
 
 .about-img {
-    text-align: left;
-    justify-content: center;
+    flex-wrap: wrap;
     padding-right: 35px;
+    flex-basis: auto;
 }
 
 .about-text {
     flex: 2 70%;
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
+    align-items: right;
+}
+
+.projects {
+    border: 10px solid teal;
+    border-radius: 15px;
+    margin: 35px;
+}
+
+.reach-me {
+    text-align: space-between;
 }
 
 .footer {
