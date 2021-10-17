@@ -21,7 +21,6 @@
     padding-bottom: 5px;
     font-size: 26px;
     color: white;
-    ;
 }
 
 .header nav ul li {
@@ -51,7 +50,6 @@
     width: 80%;
     display: flex;
     flex-wrap: wrap;
-    align-items: right;
     justify-content: space-between;
     border-left: 4px solid black;
     padding-left: 25px;
@@ -80,13 +78,24 @@
 }
 
 .projects {
-    border: 10px solid teal;
+    flex-shrink: 0;
     border-radius: 15px;
     margin: 35px;
 }
 
 .reach-me {
-    text-align: space-between;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-size: 26px;
+    color: white;
+}
+
+.reach-me ul li {
+    display: inline-block;
+    margin: 40px;
+    justify-content: space-evenly;
+    padding: 5px;
+    border-bottom: 4px solid darkslateblue;
 }
 
 .footer {
