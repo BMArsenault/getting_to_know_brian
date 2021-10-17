@@ -17,7 +17,7 @@ I have started a portfolio for myself to show off my accomplishments.  Unforunat
 
 ## Links
   
-* [Live Github Pages:]()
+* [Live Github Pages:](https://bmarsenault.github.io/getting_to_know_brian/)
 * [Repo (here):](https://github.com/BMArsenault/getting_to_know_brian)
 * [Screenshot:](https://github.com/BMArsenault/getting_to_know_brian/blob/main/assets/images/Full_Screenshot.png)
 
