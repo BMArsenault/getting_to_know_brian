@@ -10,9 +10,14 @@ I have started a portfolio for myself to show off my accomplishments.  Unforunat
 * CSS
 
 ## Recources
-* w3schools.com
-* css-tricks.com
+
+* <a href="https://www.w3schools.com" target="_blank">w3schools</a>
+* <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">css-tricks</a>
+* <a href="https://tinypng.com" target="_blank">Tinypng</a>
 
 ## Links
-
+  
+* [Live Github Pages:](https://bmarsenault.github.io/getting_to_know_brian/)
+* [Repo (here):](https://github.com/BMArsenault/getting_to_know_brian)
+* [Screenshot:](https://github.com/BMArsenault/getting_to_know_brian/blob/main/assets/images/Full_Screenshot.png)
 
